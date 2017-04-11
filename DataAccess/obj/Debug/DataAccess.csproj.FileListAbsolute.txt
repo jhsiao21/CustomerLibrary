@@ -1,0 +1,4 @@
+C:\Users\21591\Desktop\CodeProject\Learn C# Design patterns step by step with a project – Part 1\demo\CustomerLibrary\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\21591\Desktop\CodeProject\Learn C# Design patterns step by step with a project – Part 1\demo\CustomerLibrary\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\21591\Desktop\CodeProject\Learn C# Design patterns step by step with a project – Part 1\demo\CustomerLibrary\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\21591\Desktop\CodeProject\Learn C# Design patterns step by step with a project – Part 1\demo\CustomerLibrary\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,4 @@
+C:\Users\21591\Desktop\CodeProject\Learn C# Design patterns step by step with a project – Part 1\demo\CustomerLibrary\Stratergy\bin\Debug\Stratergy.dll
+C:\Users\21591\Desktop\CodeProject\Learn C# Design patterns step by step with a project – Part 1\demo\CustomerLibrary\Stratergy\bin\Debug\Stratergy.pdb
+C:\Users\21591\Desktop\CodeProject\Learn C# Design patterns step by step with a project – Part 1\demo\CustomerLibrary\Stratergy\obj\Debug\Stratergy.dll
+C:\Users\21591\Desktop\CodeProject\Learn C# Design patterns step by step with a project – Part 1\demo\CustomerLibrary\Stratergy\obj\Debug\Stratergy.pdb
